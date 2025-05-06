@@ -12,6 +12,7 @@ Code, results and report for the Bio-IT task I was assigned for my second interv
     * `sample_clusters.csv`: the clusters determined in `Data_exploration.ipynb` using PCA and Pearson correlation
     * `cpg_clus_colors_csv`: the colors used to cluster the CpGs in the heatmaps
     * `treatXX_annot.csv` files: the differentially methylated CpGs and the associated genes that were obtained using *R-limma*
+    * `Figures`: a folder with all the plots produced in the jupyter notebooks and that were included in the report
 3. `Scripts`: All scripts used throughout this project
 
 ## Scripts order
